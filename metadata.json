@@ -1,0 +1,5 @@
+{
+  "name": "GeneMOA Intelligence Platform",
+  "description": "Production-grade platform for predicting drug Mechanism of Action (MOA) from gene expression profiles using Transformer-based AI and Explainable AI (XAI).",
+  "requestFramePermissions": []
+}
